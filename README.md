@@ -18,5 +18,8 @@ flowchart LR;
     LisurgutInfo --> L3["Servers: Personal"]:::main;
     LisurgutInfo --> L4["Focus: Gaming Setup"]:::main;
 
-    %% Connect the blocks horizontally
-    PCHardware -.-> LisurgutInfo;
+    %% Add emoji in the upper left corner (without connecting to other blocks)
+    Notebook["📝"]:::normal;
+
+    %% Position the notebook block manually
+    class Notebook position:top;
