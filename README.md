@@ -24,3 +24,4 @@ flowchart LR;
     %% Position the notebook block manually
     class Notebook position:top;
 ```
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=dark) 
