@@ -1,3 +1,6 @@
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=insurgut&layout=compact&theme=dark) 
+![Codewars](https://www.codewars.com/users/insurgut/badge)  
+
 ```mermaid
 flowchart LR;
     %% Main node style
@@ -24,4 +27,3 @@ flowchart LR;
     %% Position the notebook block manually
     class Notebook position:top;
 ```
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=insurgut&layout=compact&theme=dark) 
