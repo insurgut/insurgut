@@ -1,29 +1,3 @@
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=insurgut&layout=compact&theme=dark) 
-![Codewars](https://www.codewars.com/users/insurgut/badge)  
-
-```mermaid
-flowchart LR;
-    %% Main node style
-    classDef main fill:#1e1e1e,stroke:#ff5733,stroke-width:2px,color:#ffffff,font-weight:bold,rx:10,ry:10;
-    classDef normal fill:#282828,stroke:#ff5733,stroke-width:2px,color:#ffffff,rx:8,ry:8;
-
-    %% Define the blocks for PC Hardware
-    PCHardware["PC Components"]:::main;
-    PCHardware --> P2["Intel i9-12Gen"]:::main;
-    PCHardware --> P3["GIGABYTE Z790 AORUS ELITE"]:::main;
-    PCHardware --> P4["RX 7800 XT, RTX 3050S"]:::main;
-    PCHardware --> P5["Custom Water Cooling"]:::main;
-    PCHardware --> P6["AULA 78R, SteelSeries Apex"]:::main;
-
-    %% Define the blocks for Lisurgut Info
-    LisurgutInfo["Lisurgut - User"]:::main;
-    LisurgutInfo --> L2["Languages: HTML, CSS, JS, Python"]:::main;
-    LisurgutInfo --> L3["Servers: Personal"]:::main;
-    LisurgutInfo --> L4["Focus: Gaming Setup"]:::main;
-
-    %% Add emoji in the upper left corner (without connecting to other blocks)
-    Notebook["📝"]:::normal;
-
-    %% Position the notebook block manually
-    class Notebook position:top;
-```
+![1](https://img.shields.io/badge/%40lisurgut-2%20?style=for-the-badge&logo=telegram&logoColor=FFFDFD&label=telegram&labelColor=282828&color=282828&cacheSeconds=1&link=https%3A%2F%2Ft.me%2Flisurgut) ![4](https://img.shields.io/badge/lisurgut%20Bio-b?style=for-the-badge&logo=telegram&logoColor=FFFDFD&label=Channel&labelColor=282828&color=282828&cacheSeconds=1&link=https%3A%2F%2Ft.me%2Flisurgutinbio)
+\
+![2](https://img.shields.io/badge/insurgut-1?style=for-the-badge&logo=github&logoColor=FFFDFD&label=github&labelColor=282828&color=282828&cacheSeconds=1&link=https%3A%2F%2Fgithub.com%2Finsurgut) ![3](https://img.shields.io/badge/surgut-1?style=for-the-badge&logo=steam&logoColor=FFFDFD&label=steam&labelColor=282828&color=282828&cacheSeconds=1&link=https%3A%2F%2Fsteamcommunity.com%2Fid%2F1iSurgut%2F) ![C2](https://img.shields.io/badge/%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80-1?style=for-the-badge&logoColor=FFFDFD&color=282828)
