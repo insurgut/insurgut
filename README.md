@@ -24,5 +24,3 @@ flowchart LR;
     %% Position the notebook block manually
     class Notebook position:top;
 ```
-> [!INFO]
->  )))
