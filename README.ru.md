@@ -33,3 +33,7 @@
 
 </div>
 </details>
+
+<div align="right">
+  <a href="https://github.com/insurgut/insurgut/blob/main/README.md">English version</a>
+</div>
