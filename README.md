@@ -1,9 +1,3 @@
-<div align="left">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=61DAFB)](https://api.github.com/users/insurgut/repos)
-
-</div>
-
 <details>
 <summary><b>🛠️ Tech Stack</b></summary>
 <br>
